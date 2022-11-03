@@ -3,8 +3,8 @@ I'm learning C and C++. Currently I am reimplementing some C++ standard template
 
 ## Some of my recent projects:
 
-## [Webserver](https://github.com/aenglert42/my-webserver)
-Together with [tblaase](https://github.com/tblaase) and [TamLem](https://github.com/TamLem) I created a [HTTP webserver](https://github.com/aenglert42/my-webserver) (comparable to a light [NGINX](https://docs.nginx.com/nginx/admin-guide/web-server/) reimplementation). To learn about sockets, I/O Multiplexing and HTTP protocols.</br>
+## [Webserver](https://github.com/aenglert42/http-webserver)
+Together with [tblaase](https://github.com/tblaase) and [TamLem](https://github.com/TamLem) I created a [HTTP webserver](https://github.com/aenglert42/http-webserver) (comparable to a light [NGINX](https://docs.nginx.com/nginx/admin-guide/web-server/) reimplementation). To learn about sockets, I/O Multiplexing and HTTP protocols.</br>
 </br>
 
 ## [Docker infrastructure](https://github.com/aenglert42/my-first-docker-infrastructure)
