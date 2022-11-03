@@ -19,8 +19,8 @@ Together with [alfjl](https://github.com/alfjl) I created a small [ray-caster ga
 A simple [tile based game](https://github.com/aenglert42/so_long_macOS) to learn about graphics.</br>
 </br>
 
-## [Simulation for the "dining philosophers problem"](https://github.com/aenglert42/dining_philosophers)
-A small [simulation](https://github.com/aenglert42/dining_philosophers) for the "dining philosophers problem", originally formulated by Edsger Dijkstra. To learn the about threading and resource sharing.</br>
+## [Simulation of the "dining philosophers problem"](https://github.com/aenglert42/dining_philosophers)
+A small [simulation](https://github.com/aenglert42/dining_philosophers) of the "dining philosophers problem", originally formulated by Edsger Dijkstra. To learn the about threading and resource sharing.</br>
 </br>
 
 ## [Shell](https://github.com/aenglert42/minishell)
