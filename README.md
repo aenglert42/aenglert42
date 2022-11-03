@@ -4,7 +4,7 @@ I'm learning C and C++. Currently I am reimplementing some C++ standard template
 ## Some of my recent projects:
 
 ## [Webserver](https://github.com/aenglert42/http-webserver)
-Together with [tblaase](https://github.com/tblaase) and [TamLem](https://github.com/TamLem) I created a [HTTP webserver](https://github.com/aenglert42/http-webserver) (comparable to a light [NGINX](https://docs.nginx.com/nginx/admin-guide/web-server/) reimplementation). To learn about sockets, I/O Multiplexing and HTTP protocols.</br>
+Together with [tblaase](https://github.com/tblaase) and [TamLem](https://github.com/TamLem) I created a [HTTP webserver](https://github.com/aenglert42/http-webserver) (comparable to a light version of [NGINX](https://docs.nginx.com/nginx/admin-guide/web-server/)). To learn about sockets, I/O Multiplexing and HTTP protocols.</br>
 </br>
 
 ## [Docker infrastructure](https://github.com/aenglert42/my-first-docker-infrastructure)
@@ -24,7 +24,7 @@ A small [simulation](https://github.com/aenglert42/dining_philosophers) for the 
 </br>
 
 ## [Shell](https://github.com/aenglert42/minishell)
-I created a simple [shell](https://github.com/aenglert42/minishell) (comparable to a light [bash](https://www.gnu.org/software/bash/) reimplementation). To learn about processes, file descriptors and pipes.</br>
+I created a simple [shell](https://github.com/aenglert42/minishell) (comparable to a light version of [bash](https://www.gnu.org/software/bash/)). To learn about processes, file descriptors and pipes.</br>
 </br>
 <!--
 **aenglert42/aenglert42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
