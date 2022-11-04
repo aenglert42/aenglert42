@@ -28,6 +28,23 @@ I created a simple [shell](https://github.com/aenglert42/minishell) (comparable 
 </br>
 </br>
 </br>
+
+## Some of my planned projects:
+
+## USB stick sanitizer <img src="https://skills.thijs.gg/icons?i=raspberrypi" style="height: 30px; width:auto;"/>
+I want to use a Raspberry Pi build a USB stick sanitizer. A device to safely transfer the content of an untrusted USB stick to a clean one, without taking the risk of plugging it directly into my computer.</br>
+</br>
+
+## DNS-based network-wide ad blocker <img src="https://skills.thijs.gg/icons?i=raspberrypi" style="height: 30px; width:auto;"/>
+I want to use a Raspberry Pi to filters the web before it gets to my devices. This way I can have adfree content on all devices without slowing them down (for example by using a browser based adblocker).</br>
+</br>
+
+## Network scanner <img src="https://skills.thijs.gg/icons?i=raspberrypi" style="height: 30px; width:auto;"/>
+I want to use a Raspberry Pi to build a automatic network scanner to find out what devices are present in the network.</br>
+</br>
+</br>
+</br>
+
 ##
 _<p align="right">icons from [here](https://github.com/tandpfun/skill-icons)</p>_
 
