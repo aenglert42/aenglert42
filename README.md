@@ -29,7 +29,7 @@ I created a simple [shell](https://github.com/aenglert42/minishell) (comparable 
 </br>
 </br>
 ##
-_<p align="right">icons from https://github.com/tandpfun/skill-icons</p>_
+_<p align="right">icons from [here](https://github.com/tandpfun/skill-icons)</p>_
 
 <!--
 **aenglert42/aenglert42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
