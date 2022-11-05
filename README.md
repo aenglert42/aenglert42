@@ -45,7 +45,7 @@ I want to use a Raspberry Pi to build a automatic network scanner to find out wh
 </br>
 
 ## Website <img src="https://skills.thijs.gg/icons?i=nestjs,postgres,docker" style="height: 30px; width:auto;"/>
-I will create a website with a self-made chat as well as self-made real-time multiplayer online games.</br>
+I am going to create a website where one can play self-made real-time multiplayer online games. It will have user accounts with two-factor authentification and a self-made chat.</br>
 </br>
 </br>
 </br>
