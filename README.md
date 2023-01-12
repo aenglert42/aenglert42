@@ -1,13 +1,13 @@
 # Hi, I'm Andreas 👋
 I am a student at 42 Heilbronn. Currently I am [reimplementing some C++ standard template library containers](https://github.com/aenglert42/reimplementing-stl-containers) to practice generic programming.</br>
 </br>
-Together with [alfjl](https://github.com/alfjl), [nijakow](https://github.com/nijakow) and [NL27](https://github.com/NL27), I am working on our final project to finish the 42 core curriculum. We have to create a website where the users can login and play our reinterpretation of the game [Pong (1972)](https://en.wikipedia.org/wiki/Pong) against each other. The website will have user profiles, highscores and a chat function.
+Together with [alfjl](https://github.com/alfjl), [nijakow](https://github.com/nijakow) and [NL27](https://github.com/NL27), I am working on our final project to finish the 42 core curriculum. We have to create a website on which users can login and play our reinterpretation of the game [Pong (1972)](https://en.wikipedia.org/wiki/Pong) against each other. The website will provide user profiles, highscores and a chat function.
 </br>
 
 ## Some of my recent projects:
 
 ## [Webserver](https://github.com/aenglert42/http-webserver) <img src="https://skills.thijs.gg/icons?i=cpp,nginx" style="height: 30px; width:auto;"/>
-Together with [tblaase](https://github.com/tblaase) and [TamLem](https://github.com/TamLem) I created a [HTTP webserver](https://github.com/aenglert42/http-webserver) (comparable to a light version of [NGINX](https://docs.nginx.com/nginx/admin-guide/web-server/)). To learn about sockets, I/O Multiplexing and HTTP protocols.</br>
+Together with [tblaase](https://github.com/tblaase) and [TamLem](https://github.com/TamLem), I created a [HTTP webserver](https://github.com/aenglert42/http-webserver) (comparable to a light version of [NGINX](https://docs.nginx.com/nginx/admin-guide/web-server/)). To learn about sockets, I/O Multiplexing and HTTP protocols.</br>
 </br>
 
 ## [Docker infrastructure](https://github.com/aenglert42/my-first-docker-infrastructure) <img src="https://skills.thijs.gg/icons?i=docker,linux,nginx,wordpress,mysql" style="height: 30px; width:auto;"/>
@@ -15,7 +15,7 @@ A small [Docker infrastructure](https://github.com/aenglert42/my-first-docker-in
 </br>
 
 ## [3D Game](https://github.com/aenglert42/Strassenbau-Simulator-3000) <img src="https://skills.thijs.gg/icons?i=c" style="height: 30px; width:auto;"/>
-Together with [alfjl](https://github.com/alfjl) I created a small [ray-caster game](https://github.com/aenglert42/Strassenbau-Simulator-3000) to learn about ray-casting.</br>
+Together with [alfjl](https://github.com/alfjl), I created a small [ray-caster game](https://github.com/aenglert42/Strassenbau-Simulator-3000) to learn about ray-casting.</br>
 </br>
 
 ## [2D Game](https://github.com/aenglert42/so_long_macOS) <img src="https://skills.thijs.gg/icons?i=c" style="height: 30px; width:auto;"/>
