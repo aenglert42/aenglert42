@@ -1,5 +1,7 @@
 # Hi, I'm Andreas 👋
-I'm learning C and C++. Currently I am reimplementing some C++ standard template library containers to practice generic programming.</br>
+I am a student at 42 Heilbronn. Currently I am [reimplementing some C++ standard template library containers](https://github.com/aenglert42/reimplementing-stl-containers) to practice generic programming.</br>
+</br>
+Together with [alfjl](https://github.com/alfjl), [nijakow](https://github.com/nijakow) and [NL27](https://github.com/NL27), I am working on our final project to finish the 42 core curriculum. We have to create a website where the users can login and play our reinterpretation of the game [Pong (1972)](https://en.wikipedia.org/wiki/Pong) against each other. The website will have user profiles, highscores and a chat function.
 </br>
 
 ## Some of my recent projects:
