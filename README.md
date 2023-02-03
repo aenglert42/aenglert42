@@ -51,8 +51,8 @@ I want to use a Raspberry Pi to build a automatic network scanner to find out wh
 I want to create a simple home automation system by using an arduino to control different devices with voice commands.</br>
 </br>
 
-## Website with multiplayer game and chat <img src="https://skills.thijs.gg/icons?i=nestjs,postgres,docker" style="height: 30px; width:auto;"/>
-I am planning to create a website on which users can play a self-made real-time multiplayer online game.</br>
+## Website with multiplayer pong game and chat <img src="https://skills.thijs.gg/icons?i=nestjs,svelte,postgres,docker" style="height: 30px; width:auto;"/>
+As final project of the 42 core curriculum I will have to create a website on which users can play a self-made real-time multiplayer online game (Pong).</br>
 </br>
 </br>
 </br>
