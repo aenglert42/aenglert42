@@ -56,7 +56,7 @@ I want to use a Raspberry Pi to build a automatic network scanner to find out wh
 I want to create a simple home automation system by using an arduino to control different devices with voice commands.</br>
 </br>
 
-##
+---
 _<p align="right">icons from [here](https://github.com/tandpfun/skill-icons)</p>_
 
 <!--
