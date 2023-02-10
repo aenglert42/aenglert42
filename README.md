@@ -13,7 +13,7 @@ Together with [TamLem](https://github.com/TamLem) and [tblaase](https://github.c
 </br>
 
 ## [Docker infrastructure](https://github.com/aenglert42/my-first-docker-infrastructure) <img src="https://skills.thijs.gg/icons?i=docker,linux,nginx,wordpress,mysql" style="height: 30px; width:auto;"/>
-A small [Docker infrastructure](https://github.com/aenglert42/my-first-docker-infrastructure) using [NGINX](https://docs.nginx.com/nginx/admin-guide/web-server/) to host a [WordPress](https://wordpress.com/) website to learn about system administration.</br>
+A small [docker infrastructure](https://github.com/aenglert42/my-first-docker-infrastructure) using [NGINX](https://docs.nginx.com/nginx/admin-guide/web-server/) and [MariaDB](https://mariadb.org/) to host a [WordPress](https://wordpress.com/) website to learn about system administration.</br>
 </br>
 
 ## [3D Game](https://github.com/aenglert42/Strassenbau-Simulator-3000) <img src="https://skills.thijs.gg/icons?i=c" style="height: 30px; width:auto;"/>
