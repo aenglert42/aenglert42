@@ -1,7 +1,7 @@
 # Hi, I'm Andreas 👋
 I am a student at 42 Heilbronn. Currently I am [reimplementing some C++ standard template library containers](https://github.com/aenglert42/reimplementing-stl-containers) to practice generic programming.</br>
 </br>
-Together with [alfjl](https://github.com/alfjl), [nijakow](https://github.com/nijakow) and [NL27](https://github.com/NL27), I am working on our final project to finish the 42 core curriculum. We have to create a fully functional website with frontend, backend and database. Users will need to run through an authentication process, login and can then play our reinterpretation of the game [Pong (1972)](https://en.wikipedia.org/wiki/Pong) agains each other, spectate an ongoing game, chat with other users or browse through user profiles or the highscore board.
+Together with [alfjl](https://github.com/alfjl), [nijakow](https://github.com/nijakow) and [NL27](https://github.com/NL27), I am working on our final project to finish the 42 core curriculum. We have to create a fully functional website with frontend, backend and database. Users will need to run through an authentication process, login and can then play our reinterpretation of the game [Pong (1972)](https://en.wikipedia.org/wiki/Pong) agains each other, spectate an ongoing game, chat with other users or browse through user profiles and the highscore board.
 </br>
 
 ---
