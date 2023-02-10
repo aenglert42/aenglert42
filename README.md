@@ -45,11 +45,11 @@ I want to use a Raspberry Pi to build a USB stick sanitizer. A device to safely 
 </br>
 
 ## DNS-based network-wide ad blocker <img src="https://skills.thijs.gg/icons?i=raspberrypi,python" style="height: 30px; width:auto;"/>
-I want to use a Raspberry Pi to filters the web before it gets to my devices. This way I can have adfree content on all devices without slowing them down (for example by using a browser based adblocker).</br>
+I want to use a Raspberry Pi to filter the web before it gets to my devices. This way I can have adfree content on all devices without slowing them down (for example by using a browser based adblocker).</br>
 </br>
 
 ## Network scanner <img src="https://skills.thijs.gg/icons?i=raspberrypi,python" style="height: 30px; width:auto;"/>
-I want to use a Raspberry Pi to build a automatic network scanner to find out what devices are present in the network.</br>
+I want to use a Raspberry Pi to build an automatic network scanner to find out what devices are present in the network.</br>
 </br>
 
 ## Home Automation System with voice activation <img src="https://skills.thijs.gg/icons?i=arduino,cpp" style="height: 30px; width:auto;"/>
