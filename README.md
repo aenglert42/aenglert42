@@ -8,7 +8,7 @@ Together with [alfjl](https://github.com/alfjl), [nijakow](https://github.com/ni
 ---
 # Some of my recent projects:
 
-## [Webserver](https://github.com/aenglert42/http-webserver) <img src="https://skills.thijs.gg/icons?i=cpp,nginx" style="height: 30px; width:auto;"/>
+## [HTTP Webserver](https://github.com/aenglert42/http-webserver) <img src="https://skills.thijs.gg/icons?i=cpp,nginx" style="height: 30px; width:auto;"/>
 Together with [TamLem](https://github.com/TamLem) and [tblaase](https://github.com/tblaase), I created a [HTTP webserver](https://github.com/aenglert42/http-webserver) (comparable to a light version of [NGINX](https://docs.nginx.com/nginx/admin-guide/web-server/)). To learn about sockets, I/O Multiplexing and HTTP protocols.</br>
 </br>
 
