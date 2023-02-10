@@ -1,5 +1,18 @@
 # Hi, I'm Andreas 👋
-I am a student at 42 Heilbronn. Together with [alfjl](https://github.com/alfjl), [nijakow](https://github.com/nijakow) and [NL27](https://github.com/NL27), I am currently working on our final project to finish the 42 core curriculum. We have to create a fully functional website with frontend, backend and database. Users will need to run through an authentication process, login and can then play our reinterpretation of the game [Pong (1972)](https://en.wikipedia.org/wiki/Pong) agains each other, spectate an ongoing game, chat with other users or browse through user profiles and the highscore board.
+I am a student at 42 Heilbronn where I (amongst many other things) learn about programming (mainly in C and C++) and UNIX system administration.</br>
+</br>
+So far I gathered experience with the following technologies:</br>
+</br>
+<img src="https://skills.thijs.gg/icons?i=c,cpp,bash,js,ts,nodejs,nestjs,py,go,html,css,swift" style="height: 60px; width:auto;"/>
+<img src="https://skills.thijs.gg/icons?i=vscode,docker,git,linux,raspberrypi,arduino,aws,mysql,nginx,postman,wordpress" style="height: 60px; width:auto;"/>
+</br>
+
+---
+---
+# Current project:
+
+## Full-stack website with multiplayer pong game and chat <img src="https://skills.thijs.gg/icons?i=nestjs,nodejs,ts,svelte,postgres,docker" style="height: 30px; width:auto;"/>
+Together with [alfjl](https://github.com/alfjl), [nijakow](https://github.com/nijakow) and [NL27](https://github.com/NL27), I am currently working on our final project to finish the 42 core curriculum. We have to create a fully functional website with frontend, backend and database. Users will need to run through an authentication process, login and can then play our reinterpretation of the game [Pong (1972)](https://en.wikipedia.org/wiki/Pong) agains each other, spectate an ongoing game, chat with other users or browse through user profiles and the highscore board.</br>
 </br>
 
 ---
@@ -36,11 +49,7 @@ I created a simple shell (comparable to a light version of [bash](https://www.gn
 
 ---
 ---
-# Some of my planned projects:
-
-## Full-Stack Website with multiplayer pong game and chat <img src="https://skills.thijs.gg/icons?i=nestjs,svelte,postgres,docker" style="height: 30px; width:auto;"/>
-As final project of the 42 core curriculum I will have to create a website on which users can play a self-made real-time multiplayer online game (Pong).</br>
-</br>
+# Some of my future projects:
 
 ## USB stick sanitizer <img src="https://skills.thijs.gg/icons?i=raspberrypi,python" style="height: 30px; width:auto;"/>
 I want to use a Raspberry Pi to build a USB stick sanitizer. A device to safely transfer the content of an untrusted USB stick to a clean one, without taking the risk of plugging it directly into my computer.</br>
