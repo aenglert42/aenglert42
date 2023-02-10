@@ -32,7 +32,7 @@ A small docker infrastructure using [NGINX](https://docs.nginx.com/nginx/admin-g
 </br>
 
 ## [3D Game](https://github.com/aenglert42/Strassenbau-Simulator-3000) <img src="https://skills.thijs.gg/icons?i=c" style="height: 30px; width:auto;"/>
-Together with [alfjl](https://github.com/alfjl), I created a small ray-caster game to learn about ray-casting.</br>
+Together with [alfjl](https://github.com/alfjl), I created a small game to learn about ray-casting.</br>
 </br>
 
 ## [2D Game](https://github.com/aenglert42/so_long_macOS) <img src="https://skills.thijs.gg/icons?i=c" style="height: 30px; width:auto;"/>
