@@ -1,7 +1,7 @@
 # Hi, I'm Andreas 👋
 I am a student at 42 Heilbronn where I (amongst many other things) learn about programming (mainly in C and C++) and UNIX system administration.</br>
 </br>
-So far I gathered experience with the following technologies:</br>
+So far I gathered experience with the following tools:</br>
 </br>
 <img src="https://skills.thijs.gg/icons?i=c,cpp,bash,js,ts,nodejs,nestjs,py,go,html,css,swift" style="height: 60px; width:auto;"/>
 <img src="https://skills.thijs.gg/icons?i=vscode,docker,git,linux,raspberrypi,arduino,aws,mysql,nginx,postman,wordpress" style="height: 60px; width:auto;"/>
