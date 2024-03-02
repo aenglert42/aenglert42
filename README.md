@@ -9,15 +9,10 @@ So far I gathered experience with the following tools:</br>
 
 ---
 ---
-# Current project:
-
-## Full-stack website with multiplayer pong game and chat <img src="https://skills.thijs.gg/icons?i=nestjs,nodejs,ts,svelte,postgres,docker" style="height: 30px; width:auto;"/>
-Together with [alfjl](https://github.com/alfjl), [nijakow](https://github.com/nijakow) and [NL27](https://github.com/NL27), I am currently working on our final project to finish the 42 core curriculum. We have to create a fully functional website with frontend, backend and database. Users will need to run through an authentication process, login and can then play our reinterpretation of the game [Pong (1972)](https://en.wikipedia.org/wiki/Pong) agains each other, spectate an ongoing game, chat with other users or browse through user profiles and the highscore board.</br>
-</br>
-
----
----
 # Some of my recent projects:
+
+## [Full-stack website with multiplayer pong game and chat](https://github.com/aenglert42/pong/tree/ft_transcendence) <img src="https://skills.thijs.gg/icons?i=nestjs,nodejs,ts,svelte,postgres,docker" style="height: 30px; width:auto;"/>
+Together with [alfjl](https://github.com/alfjl), [nijakow](https://github.com/nijakow), [NL27](https://github.com/NL27) and [KHammerschmidt](https://github.com/KHammerschmidt), we did our final project "ft_transcendence" to finish the "42 Coding School" core curriculum (March 2023). We created a fully functional containerized website with frontend, backend and database. Users need to run through an authentication process, login and can then play our reinterpretation of the game [Pong (1972)](https://en.wikipedia.org/wiki/Pong) agains each other, spectate an ongoing game, chat with other users or browse through user profiles and the highscore board.</br>
 
 ## [Reeimplementation of STL containers](https://github.com/aenglert42/reimplementing-stl-containers) <img src="https://skills.thijs.gg/icons?i=cpp" style="height: 30px; width:auto;"/>
 I reimplemented the standard template library containers std::vector and std::map to practice generic programming.</br>
